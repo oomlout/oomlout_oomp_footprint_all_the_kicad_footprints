@@ -1,0 +1,17 @@
+(module sasaplus1-icon-96 (layer F.Cu) (tedit 5DB4179C)
+  (fp_text reference G*** (at 0 0) (layer F.SilkS) hide
+    (effects (font (size 1.524 1.524) (thickness 0.3)))
+  )
+  (fp_text value LOGO (at 0 0) (layer F.SilkS) hide
+    (effects (font (size 1.524 1.524) (thickness 0.3)))
+  )
+  (fp_poly (pts (xy 4.064 4.064) (xy -4.064 4.064) (xy -4.064 -3.81) (xy -3.81 -3.81)
+    (xy -3.81 3.81) (xy 3.81 3.81) (xy 3.81 -3.81) (xy -3.81 -3.81)
+    (xy -4.064 -3.81) (xy -4.064 -4.064) (xy 4.064 -4.064) (xy 4.064 4.064)) (layer F.SilkS) (width 0.01))
+  (fp_poly (pts (xy -2.709334 3.386666) (xy -3.386667 3.386666) (xy -3.386667 2.709333) (xy -2.709334 2.709333)
+    (xy -2.709334 3.386666)) (layer F.SilkS) (width 0.01))
+  (fp_poly (pts (xy 3.386666 3.386666) (xy 2.709333 3.386666) (xy 2.709333 2.709333) (xy 3.386666 2.709333)
+    (xy 3.386666 3.386666)) (layer F.SilkS) (width 0.01))
+  (fp_poly (pts (xy -2.709334 -2.709334) (xy -3.386667 -2.709334) (xy -3.386667 -3.386667) (xy -2.709334 -3.386667)
+    (xy -2.709334 -2.709334)) (layer F.SilkS) (width 0.01))
+)
