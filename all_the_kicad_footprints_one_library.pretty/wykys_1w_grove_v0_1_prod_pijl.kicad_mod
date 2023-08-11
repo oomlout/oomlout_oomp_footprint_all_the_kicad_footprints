@@ -1,0 +1,14 @@
+(module prod.pijl (layer F.Cu) (tedit 5FF730A3)
+  (descr "Arrow for P&P")
+  (fp_text reference REF** (at -0.762 1.778) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value prod.pijl (at 0 -1.524) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_poly (pts (xy 0 0) (xy -1.27 0.762) (xy -1.27 -0.762)) (layer F.SilkS) (width 0.1))
+  (fp_line (start -1.27 0.762) (end 0 0) (layer F.SilkS) (width 0.12))
+  (fp_line (start -1.27 -0.762) (end -1.27 0.762) (layer F.SilkS) (width 0.12))
+  (fp_line (start 0 0) (end -1.27 -0.762) (layer F.SilkS) (width 0.12))
+  (fp_line (start -6.858 0) (end 0 0) (layer F.SilkS) (width 0.12))
+)
