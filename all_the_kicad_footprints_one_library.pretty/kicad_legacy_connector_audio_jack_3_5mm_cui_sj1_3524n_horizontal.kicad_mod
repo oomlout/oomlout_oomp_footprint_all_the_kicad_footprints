@@ -68,10 +68,10 @@
   (pad "" np_thru_hole circle (at 0 -5) (size 1.2 1.2) (drill 1.2) (layers *.Cu) (tstamp cba3de2d-c333-4102-96a7-cfba4059176f))
   (pad "" np_thru_hole circle (at -5 0) (size 1.2 1.2) (drill 1.2) (layers *.Cu) (tstamp cbe0cc02-b8e5-4dac-98ca-0bdbb74f0614))
   (pad "" np_thru_hole circle (at 5 2.5) (size 1.2 1.2) (drill 1.2) (layers *.Cu) (tstamp df62691a-ac9e-40e8-b6de-d4ed05d25023))
-  (pad "R" thru_hole oval (at -5 -5) (size 1.2 2.2) (drill oval 0.4 1.4) (layers *.Cu *.Mask) (tstamp bfd21b1a-1c18-48b5-9e10-adef06dee7ea))
+  (pad "R" thru_hole oval (at -5 -5) (size 1.2 2.2) (drill oval 0.8 1.5) (layers *.Cu *.Mask) (tstamp bfd21b1a-1c18-48b5-9e10-adef06dee7ea))
   (pad "S" thru_hole oval (at 0 0) (size 2.2 1.2) (drill oval 1.4 0.4) (layers *.Cu *.Mask) (tstamp a137dc89-577d-4523-b343-900845575b37))
   (pad "T" thru_hole oval (at 5 -5 180) (size 1.2 2.2) (drill oval 0.4 1.4) (layers *.Cu *.Mask) (tstamp f57f306a-451b-4820-b085-d30fed29210c))
-  (pad "TN" thru_hole oval (at 2.5 -5 180) (size 1.2 2.2) (drill oval 0.4 1.4) (layers *.Cu *.Mask) (tstamp a1b2bed8-7f83-4b34-aa56-99d7e9ba309f))
+  (pad "TN" thru_hole oval (at 2.5 -5 180) (size 1.6 2.3) (drill oval 0.8 1.5) (layers *.Cu *.Mask) (tstamp a1b2bed8-7f83-4b34-aa56-99d7e9ba309f))
   (model "${KICAD6_3DMODEL_DIR}/Connector_Audio.3dshapes/Jack_3.5mm_CUI_SJ1-3524N_Horizontal.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
